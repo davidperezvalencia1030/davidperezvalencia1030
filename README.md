@@ -25,7 +25,7 @@ Contáctame vía correo electronico: <a href="mailto:davidperezvalencia1030@gmai
 
 
 <span> 
-     <img src="https://skillicons.dev/icons?i=html,git,css,cs,bootstrap,arduino,firebase,linux,py,vscode,wordpress,dotnet,js,php,mysql,gradle,github,git,androidstudio">
+     <img src="https://skillicons.dev/icons?i=html,css,cs,bootstrap,arduino,firebase,linux,py,vscode,wordpress,dotnet,js,php,mysql,gradle,github,git,androidstudio">
 
 </span>  
  
